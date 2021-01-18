@@ -7,9 +7,13 @@ The frontend for the Corona School user dashboard.
 
 ## Getting started
 
-You may need the following commands.
+First, install [Node.js/npm](https://nodejs.org/en/download/package-manager/).
+The following commands are useful to set up the project.
 
-`yarn install`
+```bash
+npm install -g yarn
+yarn install
+```
 
 Installs the dependencies into the /node_modules/ directory. This must be run after cloning the directory and each update to the package.json file.
 
